@@ -28358,146 +28358,146 @@
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
       "offset": 279,
-      "length": 8,
-      "value": "\"1.0.35\""
+      "length": 7,
+      "value": "\"1.0.3\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 337,
+      "offset": 336,
       "length": 19,
       "value": "\"GroobeeServiceKey\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 400,
+      "offset": 399,
       "length": 13,
       "value": "\"AppBundleId\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 469,
+      "offset": 468,
       "length": 23,
       "value": "\"MarginInAppMessageTop\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 551,
+      "offset": 550,
       "length": 26,
       "value": "\"MarginInAppMessageBottom\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 626,
+      "offset": 625,
       "length": 10,
       "value": "\"CookieId\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 678,
+      "offset": 677,
       "length": 8,
       "value": "\"UserId\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 726,
+      "offset": 725,
       "length": 6,
       "value": "\"adId\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 776,
+      "offset": 775,
       "length": 10,
       "value": "\"MemberId\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 828,
+      "offset": 827,
       "length": 8,
       "value": "\"isSync\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 882,
+      "offset": 881,
       "length": 12,
       "value": "\"memberData\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 941,
+      "offset": 940,
       "length": 12,
       "value": "\"iosSendDtm\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 997,
+      "offset": 996,
       "length": 10,
       "value": "\"syncTime\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1052,
+      "offset": 1051,
       "length": 27,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1136,
+      "offset": 1135,
       "length": 25,
       "value": "\"CampaignInfoPushMessage\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1221,
+      "offset": 1220,
       "length": 32,
       "value": "\"CampaignInfoCurrentPushMessage\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1308,
+      "offset": 1307,
       "length": 23,
       "value": "\"DirectOpenCampaignKey\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1378,
+      "offset": 1377,
       "length": 18,
       "value": "\"grb_recent_goods\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1439,
+      "offset": 1438,
       "length": 17,
       "value": "\"recentGoodsList\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1494,
+      "offset": 1493,
       "length": 13,
       "value": "\"campaignKey\""
     },
     {
       "filePath": "\/Users\/hataejong\/Desktop\/work\/opr_csap\/GroobeeKitCSAP\/Sources\/GroobeeKit\/Common\/Constraints.swift",
       "kind": "StringLiteral",
-      "offset": 1545,
+      "offset": 1544,
       "length": 13,
       "value": "\"algorithmCd\""
     },
